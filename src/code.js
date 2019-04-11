@@ -1,3 +1,3 @@
 module.exports = function coolStuff() {
-  return "HAHA";
+  return "HAHA OMG OMG OMG WEE!";
 };

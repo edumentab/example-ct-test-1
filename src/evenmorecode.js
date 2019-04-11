@@ -1,3 +1,3 @@
 module.exports = function evenCoolerStuff() {
-  return "WOOOOO! :D :D :D :D";
+  return "THIS IS AMAZING!";
 };
